@@ -1,0 +1,4 @@
+# Secrets locaux — ne JAMAIS committer (dépôt public)
+.env
+docker-compose.override.yml
+prometheus/prometheus.local.yml
